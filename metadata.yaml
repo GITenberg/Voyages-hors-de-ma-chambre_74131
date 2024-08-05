@@ -1,0 +1,40 @@
+_repo: Voyages-hors-de-ma-chambre_74131
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fournel, Victor
+    aliases:
+    - Fournel, François Victor
+    - Fournel, Francois Victor
+    - Guérard, Edmond
+    - Guerard, Edmond
+    birthdate: 1829
+    deathdate: 1894
+    gutenberg_agent_id: '25223'
+    url: http://www.gutenberg.org/2009/agents/25223
+    wikipedia: https://fr.wikipedia.org/wiki/Victor_Fournel
+description: ''
+gutenberg_issued: '2024-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74131'
+language: fr
+pgterms:marc904: https://archive.org/details/voyageshorsdemac00four
+pgterms:marc905: 20230409091729fournel
+pgterms:marc906: '1878'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aParis :$bCharpentier, $c1878.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- Description and travel'
+- !lcc 'D'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: En Danemark -- Une excursion en Suède -- De Paris à l'Exposition
+  de Vienne -- La Hollande artistique.
+title: Voyages hors de ma chambre
+url: http://www.gutenberg.org/ebooks/74131
